@@ -73,14 +73,23 @@ This design models real-world relationships between students, teachers, and cour
 
 ## Sample Output
 
-(Add screenshots here)
-
 Suggested screenshots:
 
 * Main menu interface
+![Main Menu](ScreenShots/MainMenu.png)
+
 * Add student window
-* Course creation screen
+![Add Student](ScreenShots/AddStudent.png)
+
+* Course creation menu
+![Create Course](ScreenShots/CourseCreation.png)
+
+* Srudent Course Enrollment
+![Enroll Course](ScreenShots/EnrollCourse.png)
+
 * Student information display
+![Student Info](ScreenShots/StudentInfo.png)
+
 
 ## Key Learning Outcomes
 
